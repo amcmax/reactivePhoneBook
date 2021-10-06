@@ -39,7 +39,7 @@ export function PhoneBookForm(props) {
     firstname: "John",
     lastname: "Doe",
     phone: "123",
-  };git branch -M main
+  };
 
   const [entryState, setEntryState] = useState(defaultEntry);
 
